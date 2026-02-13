@@ -1,0 +1,5 @@
+{
+  "name": "M.4 Chemistry Score Portal",
+  "description": "A student portal for Grade 10 students to check their Chemistry scores using their 5-digit student ID, synchronized with a Google Spreadsheet.",
+  "requestFramePermissions": []
+}
